@@ -1,0 +1,6 @@
+streamlit>=1.36,<2.0
+pandas>=2.2,<3.0
+plotly>=5.20,<7.0
+PyMuPDF>=1.23,<2.0
+python-docx>=1.1,<2.0
+pytest>=8.1,<10.0

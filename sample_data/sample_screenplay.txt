@@ -1,0 +1,351 @@
+⚠️ SYNTHETIC TEST DATA — Not from Kuku's actual shows. Created only to demonstrate PromoFinder AI works end-to-end.
+
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: On her wedding day, Maya discovers her fiancé has been secretly engaged to her own sister, and a scarred stranger intervenes before the guards can remove her from the cathedral.
+CONTINUITY NOTES: First episode. Establishes betrayal at the altar, family abandonment, and the mysterious stranger who becomes Maya's unexpected protector.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CATHEDRAL – DAY
+Scene start: 00:00.00
+Scene end: 01:30.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.50)
+Wide shot. Heavy oak doors swing open. MAYA, 24, stands in a white silk gown clutching a locket, her face bright with joy.
+
+**CAMERA:**
+Start: (00:03.50) | End: (00:07.00)
+Her smile falters. At the altar, RICHARD holds the hand of CLARA — Maya's sister — in a gold gown.
+
+**MAYA (Shocked, Breathless):**
+Start: (00:07.00) | End: (00:09.00)
+"Richard?"
+
+**RICHARD (Cold, Callous):**
+Start: (00:09.50) | End: (00:11.50)
+"I changed my mind."
+
+**MAYA (Trembling, Betrayed):**
+Start: (00:12.00) | End: (00:14.50)
+"You swore you loved me. You made me wear my mother's gown!"
+
+**CLARA (Smug, Cruel):**
+Start: (00:15.00) | End: (00:17.50)
+"He loves me now, sister. He always did."
+
+**CAMERA:**
+Start: (00:17.50) | End: (00:21.00)
+Close-up on Maya's hands clenching the white silk dress fabric, knuckles white with rage.
+
+**MAYA (Outraged, Accusing):**
+Start: (00:21.00) | End: (00:24.50)
+"You knew! Both of you planned this before I even walked through those doors!"
+
+**RICHARD (Dismissive, Arrogant):**
+Start: (00:25.00) | End: (00:27.50)
+"You have nothing to offer me. Clara is the jewel of this family."
+
+**CAMERA:**
+Start: (00:27.50) | End: (00:31.00)
+Push-in on Maya's tear-filled eyes hardening from grief into cold fury.
+
+**MAYA (Defiant, Trembling):**
+Start: (00:31.50) | End: (00:35.00)
+"You showed everyone exactly what your word is worth."
+
+**ACTION:**
+Start: (00:35.00) | End: (00:38.00)
+The MATRIARCH — Maya's stepmother — steps forward in black velvet and points toward the door.
+
+**MATRIARCH (Imperious, Cold):**
+Start: (00:38.00) | End: (00:40.00)
+"Guards! Remove her!"
+
+**ACTION:**
+Start: (00:40.00) | End: (00:43.50)
+Two guards in red uniforms seize Maya by the arms and drag her backward down the aisle.
+
+**MAYA (Screaming, Desperate):**
+Start: (00:43.50) | End: (00:45.50)
+"Let me go! Someone, please!"
+
+**CAMERA:**
+Start: (00:45.50) | End: (00:48.50)
+Wide shot down the aisle. A tall scarred man in a dark coat steps into the center of the nave.
+
+**THE STRANGER (Low, Thunderous):**
+Start: (00:48.50) | End: (00:50.50)
+"Take your hands off her."
+
+**ACTION:**
+Start: (00:50.50) | End: (00:53.50)
+The lead guard charges. The Stranger blocks the strike and drops the guard with one devastating blow.
+
+**SOUND FX:**
+Start: (00:53.00) | End: (00:54.00)
+Bone-rattling thud as the guard hits the stone floor.
+
+**RICHARD (Frantic, Shouting):**
+Start: (00:54.00) | End: (00:56.00)
+"He's only one man! What are you waiting for?!"
+
+**THE STRANGER (Gentle, Protective):**
+Start: (00:56.50) | End: (00:58.50)
+"Are you hurt?"
+
+**MAYA (Breathless, Stunned):**
+Start: (00:59.00) | End: (01:01.00)
+"Why are you doing this?"
+
+**THE STRANGER (Simple, Certain):**
+Start: (01:01.50) | End: (01:03.00)
+"Because I want to."
+
+**CAMERA:**
+Start: (01:03.00) | End: (01:07.00)
+Extreme close-up. The Stranger draws a plain silver ring from his coat pocket and drops to one knee before Maya.
+
+**THE STRANGER (Solemn, Earnest):**
+Start: (01:07.00) | End: (01:10.00)
+"You came here to become a wife. They took that from you. I am offering it back."
+
+**CAMERA:**
+Start: (01:10.00) | End: (01:14.00)
+Collective gasp ripples through the congregation. Richard's face drains of colour.
+
+**MAYA (Soft, Disbelieving):**
+Start: (01:14.00) | End: (01:16.00)
+"You don't even know me."
+
+**THE STRANGER (Quiet, Steady):**
+Start: (01:16.50) | End: (01:18.00)
+"I know enough."
+
+**ACTION:**
+Start: (01:18.00) | End: (01:22.00)
+Maya looks down at the ring, tears streaming, as the solemn music swells.
+
+**CAMERA:**
+Start: (01:22.00) | End: (01:30.00)
+Slow fade on Maya's trembling smile and the Stranger's unwavering eyes — the question of her answer completely unresolved.
+
+--- SCRIPT END ---
+
+
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Maya accepts the stranger's proposal and discovers he is wanted for a crime he did not commit; the constable arrives with arrest papers.
+CONTINUITY NOTES: Picks up directly after Episode 1's proposal cliffhanger.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CATHEDRAL – CONTINUOUS
+Scene start: 00:00.00
+Scene end: 00:55.00
+
+Actions and dialogue:
+
+**MAYA (Emotional, Resolved):**
+Start: (00:00.00) | End: (00:03.00)
+"Then I accept."
+
+**ACTION:**
+Start: (00:03.00) | End: (00:06.00)
+The Stranger rises and slides the silver ring onto Maya's finger. The congregation erupts in outraged whispers.
+
+**RICHARD (Furious, Shouting):**
+Start: (00:06.50) | End: (00:09.00)
+"You've thrown yourself away for a penniless nobody!"
+
+**MAYA (Calm, Cutting):**
+Start: (00:09.50) | End: (00:12.00)
+"I would rather choose my own life than spend another moment begging for yours."
+
+**CAMERA:**
+Start: (00:12.00) | End: (00:16.00)
+Richard recoils, speechless. Clara grips his arm in fury.
+
+**THE STRANGER (Low, Firm):**
+Start: (00:16.50) | End: (00:18.50)
+"Come, Maya. We are done here."
+
+**ACTION:**
+Start: (00:18.50) | End: (00:23.00)
+Maya and the Stranger walk hand-in-hand down the aisle toward the great doors flooding with daylight.
+
+**CAMERA:**
+Start: (00:23.00) | End: (00:28.00)
+Tracking shot: their silhouettes shrink toward the light as the Matriarch screams after them.
+
+**MATRIARCH (Shrieking):**
+Start: (00:25.00) | End: (00:27.00)
+"You are disowned! You are dead to this family!"
+
+**MAYA (V.O.) (Quiet, Resolute):**
+Start: (00:28.50) | End: (00:31.50)
+"I walked into that cathedral a daughter. I walked out a wife. And I was not afraid."
+
+SCENE 02
+Scene heading: EXT. CATHEDRAL STEPS – CONTINUOUS
+Scene start: 00:55.00
+Scene end: 01:50.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:55.00) | End: (00:58.00)
+A uniformed CONSTABLE blocks their path at the bottom of the stone steps.
+
+**CONSTABLE (Authoritative):**
+Start: (00:58.50) | End: (01:01.00)
+"James Alderton. You are under arrest for the theft of Lord Harrington's gold seal."
+
+**MAYA (Startled, Gasping):**
+Start: (01:01.50) | End: (01:03.50)
+"What? He's done nothing!"
+
+**JAMES (Calm, Dangerous):**
+Start: (01:04.00) | End: (01:06.00)
+"A complaint is not proof, Constable."
+
+**CONSTABLE (Cold):**
+Start: (01:06.50) | End: (01:08.50)
+"Then a search will settle the matter."
+
+**ACTION:**
+Start: (01:08.50) | End: (01:13.00)
+The Constable reaches into James's coat and withdraws a gleaming gold seal on a chain.
+
+**SOUND FX:**
+Start: (01:12.00) | End: (01:13.00)
+Metallic clink of the seal against the chain.
+
+**CAMERA:**
+Start: (01:13.00) | End: (01:16.00)
+Extreme close-up: Maya's face drains white. Her eyes fill with shattered disbelief.
+
+**RICHARD (Appearing, Gloating):**
+Start: (01:16.50) | End: (01:18.50)
+"There it is. The evidence speaks for itself."
+
+**JAMES (V.O., Haunted):**
+Start: (01:19.00) | End: (01:21.00)
+"Someone planted this."
+
+**MAYA (Fierce, Protective):**
+Start: (01:21.50) | End: (01:23.50)
+"He is being framed. I will not let you take him!"
+
+**CONSTABLE (Stern):**
+Start: (01:24.00) | End: (01:26.00)
+"Stand aside, miss. Or I will arrest you too."
+
+**CAMERA:**
+Start: (01:26.00) | End: (01:30.00)
+James meets Maya's eyes — a silent, desperate exchange.
+
+**JAMES (Whispered, Urgent):**
+Start: (01:30.50) | End: (01:32.50)
+"Find the proof. Whatever it takes. Don't stop."
+
+**ACTION:**
+Start: (01:32.50) | End: (01:38.00)
+The Constable snaps handcuffs onto James's wrists. James keeps his eyes on Maya until the last moment.
+
+**MAYA (Broken, Vowing):**
+Start: (01:38.50) | End: (01:40.50)
+"I will find the truth. I swear it."
+
+**CAMERA:**
+Start: (01:40.50) | End: (01:50.00)
+Slow push-in on Maya standing alone on the steps, fists clenched, as James is led away in chains — the question of whether she can save him completely unresolved.
+
+--- SCRIPT END ---
+
+
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: Searching for evidence, Maya breaks into Lord Harrington's study and discovers the real thief — but is caught by Harrington himself, who reveals a shocking truth about James's true identity.
+CONTINUITY NOTES: Picks up the same night as Episode 2.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. LORD HARRINGTON'S STUDY – NIGHT
+Scene start: 00:00.00
+Scene end: 01:00.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Maya slips through a window into a dark, book-lined study. She moves to the desk by candlelight.
+
+**ACTION:**
+Start: (00:04.00) | End: (00:07.00)
+She finds a locked drawer — forces it open with a hairpin. Inside: a ledger with missing entries and a second gold seal identical to the one found on James.
+
+**MAYA (Whispering, Tense):**
+Start: (00:07.50) | End: (00:09.50)
+"He was framed. There are two seals."
+
+**ACTION:**
+Start: (00:09.50) | End: (00:13.00)
+Footsteps in the corridor. Maya presses herself against the bookcase, holding her breath.
+
+**SOUND FX:**
+Start: (00:12.50) | End: (00:14.00)
+Door handle turning. Hinges creaking open.
+
+**LORD HARRINGTON (Cold, Commanding):**
+Start: (00:14.00) | End: (00:16.00)
+"I expected you sooner, girl."
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:20.00)
+Lord Harrington — silver-haired, immaculate — steps into the candlelight and closes the door behind him.
+
+**MAYA (Defiant, Cornered):**
+Start: (00:20.50) | End: (00:23.00)
+"You planted that seal. You framed an innocent man."
+
+**LORD HARRINGTON (Amused, Dark):**
+Start: (00:23.50) | End: (00:26.50)
+"Framed? My dear child. I was protecting a secret far larger than a stolen seal."
+
+**MAYA (Confused, Alarmed):**
+Start: (00:27.00) | End: (00:29.00)
+"What secret?"
+
+**LORD HARRINGTON (Calculating, Slow):**
+Start: (00:29.50) | End: (00:34.00)
+"The man you married this morning... is not a soldier. He is not a nobody."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:38.00)
+Close-up on Maya's face — stunned, breathless.
+
+**LORD HARRINGTON (Leaning Forward, Whispering):**
+Start: (00:38.50) | End: (00:42.00)
+"James Alderton is the rightful Duke of Ashvale. The title I have been stealing for three years."
+
+**MAYA (Gasping, Shaken):**
+Start: (00:42.50) | End: (00:44.50)
+"He's... the Duke?"
+
+**LORD HARRINGTON (Smiling, Predatory):**
+Start: (00:45.00) | End: (00:48.50)
+"Which is why he must hang. And why you... must never leave this room."
+
+**ACTION:**
+Start: (00:48.50) | End: (00:52.00)
+Harrington moves toward the door and turns a heavy lock. The key disappears into his pocket.
+
+**CAMERA:**
+Start: (00:52.00) | End: (01:00.00)
+Extreme close-up on Maya's wide, terrified eyes — trapped, alone, holding the ledger that could save James — as the screen cuts sharply to black.
+
+--- SCRIPT END ---
